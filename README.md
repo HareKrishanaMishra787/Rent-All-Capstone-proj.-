@@ -1,6 +1,6 @@
 Google form link :- https://docs.google.com/forms/d/1KUKUXeqv8inejVhP6tr6Figyyo5Gk-0VFqCXNHCcKQA/edit?ts=6566dc73   <br>
 Prototype  figma link:- https://www.figma.com/design/fWKCNLlw6lg5QoK5BiBYDq/Untitled?node-id=0-1&node-type=canvas     <br>
-Nice page prototyple link:- https://rent-all.nicepage.io/page-1/LANDING-PAGE.html     <br>
+Nice page Prototype link:- https://rent-all.nicepage.io/page-1/LANDING-PAGE.html     <br>
 
 Website link :- https://rentall.rf.gd/ 
 
